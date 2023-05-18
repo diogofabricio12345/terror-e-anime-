@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabecalho{
+    background-color:rgb(3, 3, 3);
+    color: rgb(252, 7, 7);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    font-size: 20px;
+}
+.cabecalhoImagem{
+    width: 20%;
+}
+
+body{
+    background-color: rgb(10, 19, 145);
+}
+li{
+   color:rgb(240, 6, 6); 
+}
+
+.cabecalholistaitem{
+      display: inline-block ;
+    margin: 0 20px;
+    padding: 10px 0;
+    
+}
