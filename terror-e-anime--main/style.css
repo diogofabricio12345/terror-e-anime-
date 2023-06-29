@@ -48,6 +48,15 @@ li{
 }
 
 .membrosimagem{
-    width: 120px ;
+    width: 140px ;
+    
+}
+.membroDiv{
+    text-align:left;
+
+}
+.membrostitulo{
+    text-align:center;
+    padding: 30px; 
 
 }
