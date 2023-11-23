@@ -22,20 +22,30 @@ body{
 .conteiner{
  height:100vh;
  display: grid;
- grid-template-columns: 20% 80%;
+ grid-template-columns: 40% 60%;
 
 }
 .conteiner_botao{
  background-color: black;
  border-radius: 5px;
- padding: 2em;
+ padding: 1em;
 color: rgb(17, 0, 255);
 display: block ;  
-
+margin-bottom: 1em;
 }
 .botao_secundario{
  background-color:transparent;
- border: 2px solid white;
+ border: 5px solid rgb(8, 8, 8);
+
+}
+.conteiner_imagem{
+   margin: 8em 0 8em 0;
+
+}
+.conteiner_caixa{
+ margin: 1em 2em;
+
+
 
 }
 
