@@ -32,6 +32,7 @@ body{
 color: rgb(17, 0, 255);
 display: block ;  
 margin-bottom: 1em;
+
 }
 .botao_secundario{
  background-color:transparent;
@@ -44,6 +45,17 @@ margin-bottom: 1em;
 }
 .conteiner_caixa{
  margin: 1em 2em;
+
+
+}
+.secundario_imagem{
+ width: 100%;
+
+}
+.secundario{
+ align-items: center;
+ margin:50 20em;
+
 
 
 
