@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+:root{
+--cor-de-fundo:#1E1E1E;
+--texto1:#6fff57;
+--texto2:#ffffff;
+--botao-ativo:#3a375e;
+--botao-inativo:rgba(58,55,94,05);
+--texto-fundo:rgba(58,55,94,03);
+
+}
+
+body{
+background-color: var(--cor-de-fundo);
+color: var(--texto1);
+font-family: "nome da fonte", sams-sesrif;
+
+
+}
