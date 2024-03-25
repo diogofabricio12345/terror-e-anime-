@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
 
 :root{
---cor-de-fundo:#1E1E1E;
+--cor-de-fundo:#000000;
 --texto1:#6fff57;
 --texto2:#ffffff;
---botao-ativo:#3a375e;
+--botao-ativo:#000000;
 --botao-inativo:rgba(58,55,94,05);
 --texto-fundo:rgba(58,55,94,03);
 
@@ -38,5 +38,39 @@ text-align: left;
 width: 100%;
 font-size: 50px;
 
+}
+.botao{
+font-family: "lobster",sans-serif;
+background-color: #000000;
+display: flex;
+color: rgb(43, 255, 0);
+justify-content: center;
+padding: 1em;
+font-size: 18px;
+align-items: center;
+width: 70%;
 
 }
+.botoes{
+display: flex;
+
+}
+.botao:first-child{
+border-radius: 20px  000;
+
+}
+.botao:last-child{
+border-radius:0 15px 00;
+
+}
+.ativo{
+background: var(--botao-ativo);
+border-bottom: 4px solid rgb(9, 255, 0);
+}
+
+
+
+
+
+
+
