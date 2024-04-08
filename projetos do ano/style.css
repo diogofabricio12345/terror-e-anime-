@@ -67,6 +67,13 @@ border-radius:0 15px 00;
 background: var(--botao-ativo);
 border-bottom: 4px solid rgb(9, 255, 0);
 }
+.aba-texto{
+
+ background-color: black var(--texto-fundo) ;
+ 
+
+
+}
 
 
 
