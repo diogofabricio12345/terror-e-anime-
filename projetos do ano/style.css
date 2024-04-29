@@ -67,10 +67,11 @@ border-radius:0 15px 00;
 .botao.ativo{
 background: var(--botao-ativo);
 border-bottom: 4px solid rgb(9, 255, 0);
+
 }
 .aba-texto{
 
- background-color: black var(--texto-fundo) ;
+ background-color: rgb(0, 0, 0) var(--texto-fundo) ;
 
 }
 .aba-conteudo.ativo{
@@ -85,12 +86,11 @@ font-size: 0px;
 text-align: center;
 }
 .aba-conteudo-titulo-secundario{
-color:var(--texto1) azure;
+color:rgb(0, 255, 13) var(--texto1-fundo);
 text-transform: uppercase;
 
-
-
 }
+
 
 
 
