@@ -90,6 +90,19 @@ color:rgb(0, 255, 13) var(--texto1-fundo);
 text-transform: uppercase;
 
 }
+.contador{
+    font-size: 0px;
+    text-align:center ;
+    padding: 1em;
+
+
+
+
+
+
+
+}
+
 
 
 
