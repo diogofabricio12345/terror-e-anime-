@@ -86,20 +86,16 @@ font-size: 0px;
 text-align: center;
 }
 .aba-conteudo-titulo-secundario{
-color:rgb(0, 255, 13) var(--texto1-fundo);
+color:rgb(9, 255, 0) var(--texto1-fundo);
 text-transform: uppercase;
+font-size: 25px;
 
 }
 .contador{
-    font-size: 0px;
+    font-size: 25px;
     text-align:center ;
     padding: 1em;
-
-
-
-
-
-
+ 
 
 }
 
